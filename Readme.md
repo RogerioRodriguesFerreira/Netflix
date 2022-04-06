@@ -9,7 +9,8 @@ JQuery: https://owlcarousel2.github.io/OwlCarousel2/
 
 Fontawesome: https://fontawesome.com/
 
-![image-20220406104034591](C:\desafioDIO\Netflix\img\readmeimg.jpg)
+<![readmeimg](https://user-images.githubusercontent.com/97102367/161991303-291fe001-821a-4aac-91b9-aaaa7bc0c11a.jpg)
+
 
 <h2>Créditos</h2>
 
